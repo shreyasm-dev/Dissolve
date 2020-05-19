@@ -5,7 +5,7 @@ Usage -
 
 ```html
 
-<svg id="myPie"></svg>
+<svg id="myPie" style="width: /* Whatever width you want */"></svg>
 <script>
   var pie = new dissolvePieChart(
     [
