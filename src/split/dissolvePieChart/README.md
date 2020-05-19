@@ -48,3 +48,5 @@ Usage -
 </script>
 
 ```
+
+Hover, transitionDuration, and the last parameter (rotation) are completely optional.
